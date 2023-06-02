@@ -1,5 +1,5 @@
-<?php get_header();
-?>
+<?php get_header();?>
+
 <div id ='contain' class = 'container'>
 <?php get_template_part( '/Blog/breadcrumb' ); ?>
 

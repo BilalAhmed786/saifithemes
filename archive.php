@@ -27,7 +27,7 @@
 <a href = '<?php the_permalink();?>' class = "btn btn-primary"><?php echo get_theme_mod('Blog_button edit','Read more') ?></a>
 </div>
 </div>
-</div>
+</div>  
 </div>
 <?php endwhile;endif;?>
 </div>
